@@ -20,6 +20,11 @@ This Power BI dashboard visualizes key Covid-19 statistics across various countr
 ### Sum of Population and Sum of New Confirmed Cases by Country Name (Combo Chart)
 - Compares total population with newly confirmed Covid-19 cases.
 - Useful for analyzing infection rates relative to population size.
+
+---
+<img width="1208" height="681" alt="covid-19_dashboard" src="https://github.com/user-attachments/assets/9becf2ac-b610-464f-ade3-6c9732517a83" />
+
+
 ---
 
 ## Tools & Technologies
