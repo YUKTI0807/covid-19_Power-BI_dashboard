@@ -51,5 +51,7 @@ This Power BI dashboard visualizes key Covid-19 statistics across various countr
 ## Author
 
 Created by: YUKTI SUTARIYA
+
 Tool: Microsoft Power BI
+
 Purpose: Data Visualization and Analytics Practice Project
