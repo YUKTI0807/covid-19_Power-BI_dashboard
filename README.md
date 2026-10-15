@@ -2,7 +2,6 @@
 
 This Power BI dashboard visualizes key Covid-19 statistics across various countries, including active cases, total deaths, GDP per capita, and population trends. It provides a data-driven view of the pandemic’s global impact, helping analysts and viewers understand the relationship between population, economy, and Covid-19 spread.
 
----
 
 ## Visuals
 ### Sum of GDP per Capita by Country Name (Pie Chart)
